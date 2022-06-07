@@ -30,9 +30,9 @@ const DoBest = () => (
       </p>
 
       <div>
-        <DoBetter image={"/public/Homepage_Gif05_BG_A.svg"} heading={"workflow management"} title={"Automate remainders and follow-ups"} reverse />
-        <DoBetter image={"/public/HomePage_GIF1_BG_2.svg"} heading={"on-demand scheduling"} title={"Make more connections and reduce cancellations"} />
-        <DoBetter image={"/public/Homepage_Gif02_BG_A.svg"} heading={"the courteous approach"} title={"Delight invitees with modern scheduling"} reverse />
+        <DoBetter image={"/static/Homepage_Gif05_BG_A.svg"} heading={"workflow management"} title={"Automate remainders and follow-ups"} reverse />
+        <DoBetter image={"/static/HomePage_GIF1_BG_2.svg"} heading={"on-demand scheduling"} title={"Make more connections and reduce cancellations"} />
+        <DoBetter image={"/static/Homepage_Gif02_BG_A.svg"} heading={"the courteous approach"} title={"Delight invitees with modern scheduling"} reverse />
       </div>
     </div>
   </div>

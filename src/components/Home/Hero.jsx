@@ -7,7 +7,7 @@ const Hero = () => (
           <img
             className={"h-full w-full"}
             alt={""}
-            src={"/public/HomePage_GIF1_BG_2.svg"}
+            src={"/static/HomePage_GIF1_BG_2.svg"}
           />
         </div>
       </div>

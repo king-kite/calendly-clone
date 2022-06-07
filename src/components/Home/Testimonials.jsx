@@ -6,7 +6,7 @@ const Testimonials = () => (
       <div className={"flex flex-col items-center p-4 md:flex-row md:justify-between"}>
         <div className={"w-full md:w-1/2"}>
           <div className={"my-2 max-w-md  mx-auto"}>
-            <img className={"w-full h-full"} src="/public/Bitly.jpg" alt=""/>
+            <img className={"w-full h-full"} src="/static/Bitly.jpg" alt=""/>
           </div>
         </div>
         <div className={"p-3 w-full sm:px-6 md:w-1/2 md:pl-12"}>

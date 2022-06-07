@@ -57,14 +57,14 @@ const Header = () => {
           <div className={"h-[35px] w-[35px] xs:hidden md:h-[40px] md:w-[40px]"}>
             <img
               className="h-full w-full"
-              src="/public/logo-1.svg"
+              src="/static/logo-1.svg"
               alt=""
             />
           </div>
           <div className="hidden h-[35px] w-[160px] xs:block md:h-[40px] md:w-[170px]">
             <img
               className="h-full w-full"
-              src="/public/logo-2.svg"
+              src="/static/logo-2.svg"
               alt=""
             />
           </div>
